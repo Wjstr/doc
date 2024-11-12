@@ -33,7 +33,7 @@ Example:
         address: "0x0a27E910Aee974D05000e05eab8a4b8Ebd93D40C",
         tokens: [
             {
-                address: "0x514910771af9ca656af840dff83e8264ecf986ca",
+                address: "0x1822859aD5913E205AEA439035dff66d15B47d38",
                 balance: "3563537237796219000000000",
                 decimals: "18",
                 symbol: "LINK"
@@ -52,7 +52,7 @@ Example:
             symbol: "DAI"
           },
           {
-            address: "0xca0c34a3f35520b9490c1d58b35a19ab64014d80",
+            address: "0x1822859aD5913E205AEA439035dff66d15B47d38",
             balance: "825661980228538300000",
             decimals: "18",
             symbol: "vDAI"
@@ -72,7 +72,7 @@ Example:
         address: "0x59543A595B69897b295F12964d3C7C37B3AD29C0",
         tokens: [
             {
-                address: "0x6b175474e89094c44da98b954eedeac495271d0f",
+                address: "0x1822859aD5913E205AEA439035dff66d15B47d38",
                 balance: "10141625",
                 decimals: "18",
                 symbol: "DAI"
