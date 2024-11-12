@@ -11,5 +11,5 @@ This proposal greenlights the creation of UNI and USDT Vesper Grow pools. Once s
 
 After successful Beta run, USDT and UNI can graduate to the main app with optional VSP boost.
 ## Specification
-UNI token contract: 0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
+UNI token contract: 0x1822859aD5913E205AEA439035dff66d15B47d38
 USDT token contract: 0xdac17f958d2ee523a2206206994597c13d831ec7
